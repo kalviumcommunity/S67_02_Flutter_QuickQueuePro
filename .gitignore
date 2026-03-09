@@ -10,6 +10,12 @@ build/
 .idea/
 *.iml
 
+# Environment files – NEVER commit real credentials
+.env
+.env.production
+.env.staging
+*.env
+
 # Generated iOS/Android/macOS/Windows build artifacts
 android/.gradle/
 android/app/build/
