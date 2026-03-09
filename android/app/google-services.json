@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999681334311",
+    "project_id": "streetvendors-1cd02",
+    "storage_bucket": "streetvendors-1cd02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999681334311:android:198de64910db9862974202",
+        "android_client_info": {
+          "package_name": "com.example.vendorcodesimwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_DCG7DPJR-hYeJWkEhF89s-vQBed-Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
