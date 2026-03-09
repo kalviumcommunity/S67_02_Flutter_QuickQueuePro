@@ -1,0 +1,14 @@
+{
+  "name": "quick-queue-pro-database",
+  "version": "1.0.0",
+  "description": "QuickQueuePro database migration and seed scripts",
+  "scripts": {
+    "migrate": "node scripts/run_migrations.js",
+    "seed":    "node scripts/run_seeds.js",
+    "setup":   "npm run migrate && npm run seed"
+  },
+  "dependencies": {
+    "dotenv":  "^16.4.5",
+    "mysql2":  "^3.9.7"
+  }
+}
