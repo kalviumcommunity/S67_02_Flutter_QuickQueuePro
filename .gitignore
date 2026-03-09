@@ -1,0 +1,21 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melody/
+
+# IDE files
+.idea/
+*.iml
+
+# Generated iOS/Android/macOS/Windows build artifacts
+android/.gradle/
+android/app/build/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
